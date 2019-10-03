@@ -1,6 +1,4 @@
-This plugin lets player easily choose colour for own ships.
-
-Colours:
+This plugin lets player easily choose colour for own ships. Colours:
 1 - Pink
 2 - Light Green
 3 - Neon Green

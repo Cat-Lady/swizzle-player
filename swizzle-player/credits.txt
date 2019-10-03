@@ -9,5 +9,5 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 special thanks to:
-"Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game
+"Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game;
 James the Bot, for a way to easily check swizzleimages.
