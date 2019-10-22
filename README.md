@@ -2,17 +2,26 @@
 
 This is a small plugin that allow to change player's swizzle in "Endless Sky" - and keep the colour after ES get updates that change goverments.txt data file.
 
-
+![Swizzle Player Image](/boarding-enhancements/icon.png?raw=true "Swizzle Player Image")
 
 
 ### Installing
 
 Check:
 https://github.com/Cat-Lady/swizzle-player/releases
+
 ...for latest, pre-packaged version.
 
-Unpack to your ES plugins folder. Be sure that you have single ``swizzle-player`` directory inside your plugin folder, containing ``data`` and ``images`` directories - it **won't** work if the directory structure will be anything like:
+
+**1.** Unpack ``swizzle-player`` to your ES plugins folder. Be sure that you have single ``swizzle-player`` directory inside your plugin folder, containing ``data`` and ``images`` directories. Directory structure should look like:
+
+```(...)/plugins/swizzle-player/(.../data/ and other stuff)```
+
+
+It **won't** work if the directory structure will be anything like:
+
 ```(...)/plugins/swizzle-player/swizzle-player/(...)```
+
 
 ## Author
 
