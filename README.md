@@ -13,7 +13,7 @@ https://github.com/Cat-Lady/swizzle-player/releases
 ...for latest, pre-packaged version.
 
 
-**1.** Unpack ``swizzle-player`` to your ES plugins folder. Be sure that you have single ``swizzle-player`` directory inside your plugin folder, containing ``data`` and ``images`` directories. Directory structure should look like:
+**1.** Unpack ``swizzle-player`` to your ES plugins folder. Be sure that you have single ``swizzle-player`` directory inside your plugin folder, containing ``data`` folder. Directory structure should look like:
 
 ```(...)/plugins/swizzle-player/(.../data/ and other stuff)```
 
