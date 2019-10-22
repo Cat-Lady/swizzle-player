@@ -5,7 +5,7 @@ This is a small plugin that allow to change player's swizzle in "Endless Sky" - 
 ![Swizzle Player Image](/swizzle-player/icon.png?raw=true "Swizzle Player Image")
 
 
-### Installing
+## Installing
 
 Check:
 https://github.com/Cat-Lady/swizzle-player/releases
