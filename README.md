@@ -36,4 +36,6 @@ This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.m
 
 "Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game
 
-James the Bot from "endless Sky" discord forum; For easy way to check swizzle numbers, the bazzilion times I needed to do it in the past.
+![James the Bot](https://github.com/EndlessSkyCommunity/EndlessSky-Discord-Bot) from "endless Sky" discord forum; For easy way to check swizzle numbers, the bazzilion times I needed to do it in the past.
+
+Iggy Pop for singing "She want's to be your James Bot" (and don't even try to convince me it was something else).
