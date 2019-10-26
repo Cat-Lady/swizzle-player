@@ -35,4 +35,5 @@ This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.m
 ## Acknowledgments
 
 "Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game
+
 James the Bot from "endless Sky" discord forum; For easy way to check swizzle numbers, the bazzilion times I needed to do it in the past.
